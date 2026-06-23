@@ -17,7 +17,7 @@
 ---
 
 - 🔭 &nbsp; I build **production AI systems** — multi-agent LLM platforms, RAG, and ML — backed by solid web engineering
-- 🌱 &nbsp; Currently leading **FinRePAI · BitGov**, an AI credit-risk platform at IFCE's Innovation Hub (EMBRAPII)
+- 🌱 &nbsp; Currently leading **FinRePAI · BitGov** (AI credit-risk) and **microservice development for RHIA** (AI-powered HR platform) — both at IFCE's Innovation Hub (EMBRAPII)
 - 💬 &nbsp; Ask me about **LLM agents, FastAPI/Django, RAG, observability, and shipping things that survive production**
 - 📫 &nbsp; Reach me at **bessavagner.dev@gmail.com**
 - 📍 &nbsp; Crateús, CE, Brazil · Remote (UTC−3) — open to international freelance & roles
